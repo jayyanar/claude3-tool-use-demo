@@ -9,8 +9,3 @@ To interact with the chatbot, follow the instructions provided in the documentat
 ## Documentation
 The detailed documentation for the use case, including each step of the process, is provided in the code and can be accessed in the `Documentation` section.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-The development of this chatbot was inspired by the capabilities of OpenAI's Claude 3 models and the convenience of client-side tools for natural language processing tasks.
